@@ -10,9 +10,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Thocuteee&theme=dark&hide_border=false&cache_seconds=7200)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thocuteee&theme=dark&hide_border=false&layout=compact&cache_seconds=7200)
 
-### ✍️ Dev Thoughts
-> 💡 “Không có dòng code nào hoàn hảo, chỉ có lập trình viên luôn cố gắng làm nó tốt hơn mỗi ngày!”
+## 😄 A bit more about me
+
+- 🎮 Thích game nhưng giờ chủ yếu… fix bug nhiều hơn chơi
+- 🧩 Thích tối ưu code, refactor, làm cho project sạch và dễ hiểu
+- ☕ Sống nhờ cà phê và những dòng log
+- 💡 Quan điểm: “Không có dòng code nào hoàn hảo, chỉ có lập trình viên luôn cố gắng làm nó tốt hơn mỗi ngày!”
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Thocuteee&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
